@@ -1,10 +1,5 @@
 # Atividade 2 - ESG Platform - FASE 7 - MyTree Mobile
 
-## LINK DEPLOY:
-[https://my-tree-three.vercel.app/](https://my-three-api.vercel.app/)
-
----
-
 ## COMO RODAR LOCAL:
 1. Clonar o repositório
 2. Executar o comando "npm install"
